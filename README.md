@@ -1,6 +1,6 @@
 ## Digital Ecommerce Store 
 
-[Website - ]
+
 <img width="974" alt="Screenshot 2023-05-13 at 1 39 30 PM" src="https://github.com/iexcalibur/ecommerce-front-v1/assets/48850851/5514676b-339d-4969-9a9d-6ebbb6cffdf0">
 
 
